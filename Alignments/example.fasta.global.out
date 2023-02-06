@@ -1,0 +1,53 @@
+
+------------- INPUTS -------------
+Sequence File:	example.fasta
+Global/Local:	0
+Parameters Config File:	parameters.config
+-----------------------------------
+match: 1
+mismatch: -2
+h: -5
+g: -2
+-----------------------------------
+Starting Global Alignment : 
+CCGAT
+<----------------------------------------->
+Length of Sequence_1 : 125
+Length of Sequence_2 : 111
+<----------------------------------------->
+
+
+Started Forward  Computation
+Finished Forward  Computation
+
+<----------------------------------------->
+End Index for alignment      : 125 111
+Starting Index for alignment : 0  0
+
+----- Printing Alignment ----- 
+
+
+String 1 : ACATGCTACACGTATCCGATACCCCGTAACCGATAACGATACACAGACCTCGTACGCTTG
+           |||||| ||||   ||||||||||||||||||||||||||||| ||||||||||||||||
+String 2 : ACATGCGACACTACTCCGATACCCCGTAACCGATAACGATACAGAGACCTCGTACGCTTG
+String 1 : CTACAACGTACTCTATAACCGAGAACGATTGACATGCCTCGTACACATGCTACACGTACT
+           |||           ||||||||||||||||||||| |||||||||   ||||||||||||
+String 2 : CTA-----------ATAACCGAGAACGATTGACATTCCTCGTACA---GCTACACGTACT
+String 1 : CCGAT
+           |||||
+String 2 : CCGAT
+
+
+------- Printing Scores ------- 
+
+Table Score:55
+Global Optimal Score: 55
+Match Count: 105
+Mismatch Count: 6
+Opening gaps: 2
+Total gaps: 14
+Identities: 105/125 (84%)
+Gaps: 14/125 (11%)
+
+
+<----------------------------------------->
