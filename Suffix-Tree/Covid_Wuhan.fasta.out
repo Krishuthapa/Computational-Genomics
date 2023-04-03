@@ -1,0 +1,18 @@
+
+------------- INPUTS -------------
+Sequence File:	Covid_Wuhan.fasta
+-----------------------------------
+String Length:29904
+Running Time to build tree in milliseconds :130
+===========================================
+Statistics of the Built Tree:
+Total number of leaves:29904
+Total number of internal nodes:19098
+Total number of internal nodes and leaves:49002
+Average string depth of internal nodes:7
+Length of maximum repeating characters:32
+Start Index of maximum repeating characters:29870
+Deepest Node Path Label / Maximum Repeating Characters:
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+===========================================

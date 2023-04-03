@@ -1,0 +1,18 @@
+
+------------- INPUTS -------------
+Sequence File:	Slyco.fas
+-----------------------------------
+String Length:155462
+Running Time to build tree in milliseconds :998
+===========================================
+Statistics of the Built Tree:
+Total number of leaves:155462
+Total number of internal nodes:98972
+Total number of internal nodes and leaves (including root):254435
+Average string depth of internal nodes:8
+Length of maximum repeating characters:48
+Start Index of maximum repeating characters:88130
+Deepest Node Path Label / Maximum Repeating Characters:
+
+AATCAATGCAATTTAGGAGGAATCAATGCAATTTAGGAGGAATCAATG
+===========================================

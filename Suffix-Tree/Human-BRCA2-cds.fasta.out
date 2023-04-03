@@ -1,0 +1,18 @@
+
+------------- INPUTS -------------
+Sequence File:	Human-BRCA2-cds.fasta
+-----------------------------------
+String Length:11383
+Running Time to build tree in milliseconds :52
+===========================================
+Statistics of the Built Tree:
+Total number of leaves:11383
+Total number of internal nodes:7299
+Total number of internal nodes and leaves (including root):18683
+Average string depth of internal nodes:6
+Length of maximum repeating characters:14
+Start Index of maximum repeating characters:6164
+Deepest Node Path Label / Maximum Repeating Characters:
+
+ACAGCAAGTGGAAA
+===========================================

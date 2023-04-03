@@ -1,0 +1,18 @@
+
+------------- INPUTS -------------
+Sequence File:	test.fasta
+-----------------------------------
+String Length:3844
+Running Time to build tree in milliseconds :20
+===========================================
+Statistics of the Built Tree:
+Total number of leaves:3844
+Total number of internal nodes:1658
+Total number of internal nodes and leaves:5502
+Average string depth of internal nodes:5
+Length of maximum repeating characters:14
+Start Index of maximum repeating characters:2838
+Deepest Node Path Label / Maximum Repeating Characters:
+
+TTTTTTTTTTTTTT
+===========================================

@@ -1,0 +1,18 @@
+
+------------- INPUTS -------------
+Sequence File:	Covid_Brazil.fasta
+-----------------------------------
+String Length:29877
+Running Time to build tree in milliseconds :135
+===========================================
+Statistics of the Built Tree:
+Total number of leaves:29877
+Total number of internal nodes:19070
+Total number of internal nodes and leaves (including root):48948
+Average string depth of internal nodes:7
+Length of maximum repeating characters:17
+Start Index of maximum repeating characters:3254
+Deepest Node Path Label / Maximum Repeating Characters:
+
+ATCAGACAACTACTATT
+===========================================

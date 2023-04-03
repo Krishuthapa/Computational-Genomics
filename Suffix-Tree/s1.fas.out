@@ -1,0 +1,18 @@
+
+------------- INPUTS -------------
+Sequence File:	s1.fas
+-----------------------------------
+String Length:7
+Running Time to build tree in milliseconds :0
+===========================================
+Statistics of the Built Tree:
+Total number of leaves:7
+Total number of internal nodes:3
+Total number of internal nodes and leaves:10
+Average string depth of internal nodes:2
+Length of maximum repeating characters:3
+Start Index of maximum repeating characters:1
+Deepest Node Path Label / Maximum Repeating Characters:
+
+ANA
+===========================================

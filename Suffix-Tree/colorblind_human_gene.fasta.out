@@ -1,0 +1,18 @@
+
+------------- INPUTS -------------
+Sequence File:	colorblind_human_gene.fasta
+-----------------------------------
+String Length:3303
+Running Time to build tree in milliseconds :21
+===========================================
+Statistics of the Built Tree:
+Total number of leaves:3303
+Total number of internal nodes:2104
+Total number of internal nodes and leaves (including root):5408
+Average string depth of internal nodes:5
+Length of maximum repeating characters:18
+Start Index of maximum repeating characters:1810
+Deepest Node Path Label / Maximum Repeating Characters:
+
+AAAATTAAAAATTAAAAA
+===========================================
